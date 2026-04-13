@@ -1,1 +1,1 @@
-# Thamirabarani-flood-assessment
+This repository will host open-source Python scripts for analyzing flood patterns in the Thamirabarani basin. It uses GeoPandas for spatial analysis and aims to provide actionable data for local disaster management.
